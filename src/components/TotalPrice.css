@@ -1,0 +1,8 @@
+.table-totalPrice {
+  border: 1px solid black;
+  width: 600px;
+  margin: 0 auto;
+  display: flex;
+  font-weight: bold;
+  padding: 5px 0px 5px 0px;
+}
